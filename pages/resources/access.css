@@ -1,0 +1,15 @@
+h2 {
+    font-family: 'Rowdies', cursive;
+    font-size: 100px;
+    text-align: center;
+}
+button, select {
+    display: block;
+    border: 5px solid black;
+    margin: auto;
+    width: 50%;
+    font-family: 'Rowdies', cursive;
+    font-size: 100px;
+    text-align: center;
+    background-color: transparent;
+}

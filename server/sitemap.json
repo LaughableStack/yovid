@@ -1,0 +1,27 @@
+{
+    "access": {
+        "ref": "access/index.html", 
+        "type": "text/html",
+        "access.css": {"ref": "resources/access.css", "type": "text/css"},
+        "access.js": {"ref": "resources/access.js", "type": "text/javascript"},
+        "questions": {"ref": "resources/questions.json", "type": "text/json"}
+    },
+    "staff": {
+        "ref": "access/index.html", 
+        "type": "text/html",
+        "access.css": {"ref": "resources/access.css", "type": "text/css"},
+        "access.js": {"ref": "resources/access.js", "type": "text/javascript"},
+        "questions": {"ref": "resources/questions.json", "type": "text/json"}
+    },
+    "dashboard": {
+        "ref": "dashboard/index.html",
+        "type": "text/html",
+        "dashboard.css": {"ref": "resources/dashboard.css", "type": "text/css"},
+        "dashboard.js": {"ref": "resources/dashboard.js", "type": "text/javascript"}
+    },
+    "resources": {
+        "yes": {"ref": "resources/yes.png", "type": "image/png"},
+        "no": {"ref": "resources/no.png", "type": "image/png"}
+    },
+    "favicon.ico": {"ref": "resources/yes.png", "type": "image/png"}
+}

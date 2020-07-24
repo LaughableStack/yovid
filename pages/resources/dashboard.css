@@ -1,0 +1,9 @@
+div.chart {
+    display: inline-block;
+}
+div.table, table {
+    display: inline-block;
+}
+th,td {
+    border: 2px solid black
+}

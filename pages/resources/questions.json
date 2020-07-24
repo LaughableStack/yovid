@@ -1,0 +1,18 @@
+{
+    "prompts": [
+        "Have you been exposed to someone with COVID-19 in the last 14 days?",
+        "Have you felt like you had a fever in the past day?",
+        "Do you have a new or worsening cough today?"
+    ],
+    "symptomPrompt": "Do you have this symptom today: ",
+    "symptoms": [
+        "Shortness of breath or difficulty breathing",
+        "Fatigue",
+        "Muscle or Body aches",
+        "Headache",
+        "New loss of taste or smell",
+        "Sore throat",
+        "Congestion or runny nose",
+        "Diarrhea"
+    ]
+}
